@@ -1,7 +1,7 @@
 # hatch_replace
 A simple powershell script to Batch replace hatch pattern files in all the Autocad installs on the system.
 
-This is useful for overiding the default hatch patterns to prevent clashes of existing hatches.
+This is useful for overriding the default hatch patterns to prevent clashes of existing hatches.
 
 ![image](https://user-images.githubusercontent.com/57244441/127946582-064f0837-b140-4ea9-85c6-83dde455b959.png)
 
