@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy bypass .\hatch_replace.ps1
